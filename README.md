@@ -24,7 +24,6 @@ The test suite focuses on the core e-commerce functionalities:
 * 📄 **Product Details Page (PDP):** Viewing Details, Selecting Options (size, color), Quantity Adjustment, Adding to Cart.
 * 🛒 **Shopping Cart Management:** Viewing Cart, Updating Quantities, Removing Items.
 * 💳 **Checkout Process:** For both registered and guest users, including shipping and (mock) payment steps.
-* 🖥️ **Basic UI/UX:** General site navigation, layout consistency, and core usability aspects.
 
 ---
 
@@ -50,13 +49,13 @@ This repository contains the following key deliverables:
     * **Description:** Outlines the scope, objectives, test strategy, and resources for this testing effort.
 
 2.  **🧪 Detailed Test Cases**
-    * **Location:** [./Test_Cases/](./Test_Cases/) (Organized into sub-folders by module)
+    * **Location:** [./Test_Cases/](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases) (Organized into sub-folders by module)
     * **Description:** Meticulously crafted test cases in Markdown (`.md`) format. Each file represents an individual test case detailing steps, preconditions, and expected results. They are categorized by module for clarity and ease of navigation.
-        * [User Account Management](./Test_Cases/User_Account_Management/)
-        * [Product Browse & Search](./Test_Cases/Product_Browse_And_Search/)
-        * [Product Detail Page](./Test_Cases/Product_Detail_Page/)
-        * [Shopping Cart](./Test_Cases/Shopping_Cart/)
-        * [Checkout Process](./Test_Cases/Checkout_Process/)
+        * [User Account Management](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases/User_Account_Management)
+        * [Product Browse & Search](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases/Product%20Browse%20%26%20Search)
+        * [Product Detail Page](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases/Product%20Detail%20Page)
+        * [Shopping Cart](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases/Shopping%20Cart)
+        * [Checkout Process](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases/Checkout%20Process)
 
 3.  **🐞 Sample Bug Report**
     * **Location:** [./Bug_Report_Sample.md](./Bug_Report_Sample.md)
