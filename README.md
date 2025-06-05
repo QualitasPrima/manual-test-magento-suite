@@ -92,4 +92,4 @@ This manual testing suite lays a strong foundation. Future enhancements could in
 
 **David Jenkins (QualitasPrima)**
 Senior QA Engineer | Manual & Automation Testing | Agile | Cypress / Playwright
-[LinkedIn](https://www.linkedin.com/in/davidjenkins-qa/)*
+[LinkedIn](https://www.linkedin.com/in/davidjenkins-qa/)
