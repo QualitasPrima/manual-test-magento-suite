@@ -49,7 +49,7 @@ This repository contains the following key deliverables:
     * **Description:** Outlines the scope, objectives, test strategy, and resources for this testing effort.
 
 2.  **🧪 Detailed Test Cases**
-    * **Location:** [./Test_Cases/](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases) (Organized into sub-folders by module)
+    * **Location:** [Test_Cases](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases) (Organized into sub-folders by module)
     * **Description:** Meticulously crafted test cases in Markdown (`.md`) format. Each file represents an individual test case detailing steps, preconditions, and expected results. They are categorized by module for clarity and ease of navigation.
         * [User Account Management](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases/User_Account_Management)
         * [Product Browse & Search](https://github.com/QualitasPrima/manual-test-magento-suite/tree/main/Test_Cases/Product%20Browse%20%26%20Search)
