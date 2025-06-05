@@ -52,11 +52,11 @@ This repository contains the following key deliverables:
 2.  **🧪 Detailed Test Cases**
     * **Location:** [./Test_Cases/](./Test_Cases/) (Organized into sub-folders by module)
     * **Description:** Meticulously crafted test cases in Markdown (`.md`) format. Each file represents an individual test case detailing steps, preconditions, and expected results. They are categorized by module for clarity and ease of navigation.
-        * [User Account Management](./Test_Cases/01_User_Account_Management/)
-        * [Product Browse & Search](./Test_Cases/02_Product_Browse_And_Search/)
-        * [Product Detail Page](./Test_Cases/03_Product_Detail_Page/)
-        * [Shopping Cart](./Test_Cases/04_Shopping_Cart/)
-        * [Checkout Process](./Test_Cases/05_Checkout_Process/)
+        * [User Account Management](./Test_Cases/User_Account_Management/)
+        * [Product Browse & Search](./Test_Cases/Product_Browse_And_Search/)
+        * [Product Detail Page](./Test_Cases/Product_Detail_Page/)
+        * [Shopping Cart](./Test_Cases/Shopping_Cart/)
+        * [Checkout Process](./Test_Cases/Checkout_Process/)
 
 3.  **🐞 Sample Bug Report**
     * **Location:** [./Bug_Report_Sample.md](./Bug_Report_Sample.md)
